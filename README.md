@@ -9,4 +9,8 @@ epsilon talk November 12 2025, presented on a way to draw using angles and perci
 
 SIAM club at sac state talk discussing the uses of GitHub in a professional capacity 09/03/2026
 
+tbd
+add the poster presentation
+add manuscript
+
 Notes: resume doc for personal use please ignore https://docs.google.com/document/d/1gAEwq5nytDQ-97_yFdphRi464KbR1itOgoayjK34afQ/edit?usp=drivesdk
